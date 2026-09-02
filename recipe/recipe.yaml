@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.1"
+  version: "0.5.0"
 
 package:
   name: scrollcase-consumer
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/scrollcase-consumer/scrollcase_consumer-${{ version }}.tar.gz
-  sha256: 93bb30b8ac761825e515aaed9bba4f3ee402e78255bac32f3af9e1055ab8c25e
+  sha256: 1c1a3cc13c543bcadf3e75d7fc85a399d15787e9685b7b8a2252bd535f5cbcb4
 
 build:
   number: 0
